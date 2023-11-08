@@ -1,5 +1,7 @@
 # Web Development Resources
 
+This list comprises a collection of useful links I've gathered while learning web development. These resources cover a wide range of topics, including HTML, CSS, JavaScript, C#, Bootstrap, design, online editors, hosting services, and other helpful utilities. While I initially compiled them for personal use, they might prove useful for someone out there.
+
 ## HTML
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/ "Emmet Cheat Sheet")
 - [Lorem Ipsum](https://loremipsum.io/ "Lorem Ipsum")
